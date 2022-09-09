@@ -1,0 +1,5 @@
+.vscode/
+*.pyc
+*.engine
+output/
+samples-bk
